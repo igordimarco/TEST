@@ -7,3 +7,5 @@ changes from InkaInterafca
 bals100 changes
 
 message for Yaroslav
+
+message for Diana

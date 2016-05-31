@@ -12,3 +12,5 @@ message for Diana
 
 
 some message wirrten in master by me
+
+message added while in InkasInterface 5
